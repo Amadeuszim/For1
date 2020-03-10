@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\VB\repetição2\repetição2\bin\Debug\repetição2.exe.config
+C:\Users\aluno\Desktop\VB\repetição2\repetição2\bin\Debug\repetição2.exe
+C:\Users\aluno\Desktop\VB\repetição2\repetição2\bin\Debug\repetição2.pdb
+C:\Users\aluno\Desktop\VB\repetição2\repetição2\bin\Debug\repetição2.xml
+C:\Users\aluno\Desktop\VB\repetição2\repetição2\obj\Debug\repetição2.Form1.resources
+C:\Users\aluno\Desktop\VB\repetição2\repetição2\obj\Debug\repetição2.Resources.resources
+C:\Users\aluno\Desktop\VB\repetição2\repetição2\obj\Debug\repetição2.vbproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\VB\repetição2\repetição2\obj\Debug\repetição2.exe
+C:\Users\aluno\Desktop\VB\repetição2\repetição2\obj\Debug\repetição2.xml
+C:\Users\aluno\Desktop\VB\repetição2\repetição2\obj\Debug\repetição2.pdb

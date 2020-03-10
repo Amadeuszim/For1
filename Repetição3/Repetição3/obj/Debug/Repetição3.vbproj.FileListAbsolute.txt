@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\VB\Repetição3\Repetição3\bin\Debug\Repetição3.exe.config
+C:\Users\aluno\Desktop\VB\Repetição3\Repetição3\bin\Debug\Repetição3.exe
+C:\Users\aluno\Desktop\VB\Repetição3\Repetição3\bin\Debug\Repetição3.pdb
+C:\Users\aluno\Desktop\VB\Repetição3\Repetição3\bin\Debug\Repetição3.xml
+C:\Users\aluno\Desktop\VB\Repetição3\Repetição3\obj\Debug\Repetição3.frmwhile.resources
+C:\Users\aluno\Desktop\VB\Repetição3\Repetição3\obj\Debug\Repetição3.Resources.resources
+C:\Users\aluno\Desktop\VB\Repetição3\Repetição3\obj\Debug\Repetição3.vbproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\VB\Repetição3\Repetição3\obj\Debug\Repetição3.exe
+C:\Users\aluno\Desktop\VB\Repetição3\Repetição3\obj\Debug\Repetição3.xml
+C:\Users\aluno\Desktop\VB\Repetição3\Repetição3\obj\Debug\Repetição3.pdb

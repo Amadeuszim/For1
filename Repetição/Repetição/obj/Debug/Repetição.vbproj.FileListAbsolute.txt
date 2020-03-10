@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\VB\Repetição\Repetição\bin\Debug\Repetição.exe.config
+C:\Users\aluno\Desktop\VB\Repetição\Repetição\bin\Debug\Repetição.exe
+C:\Users\aluno\Desktop\VB\Repetição\Repetição\bin\Debug\Repetição.pdb
+C:\Users\aluno\Desktop\VB\Repetição\Repetição\bin\Debug\Repetição.xml
+C:\Users\aluno\Desktop\VB\Repetição\Repetição\obj\Debug\Repetição.frmrepete.resources
+C:\Users\aluno\Desktop\VB\Repetição\Repetição\obj\Debug\Repetição.Resources.resources
+C:\Users\aluno\Desktop\VB\Repetição\Repetição\obj\Debug\Repetição.vbproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\VB\Repetição\Repetição\obj\Debug\Repetição.exe
+C:\Users\aluno\Desktop\VB\Repetição\Repetição\obj\Debug\Repetição.xml
+C:\Users\aluno\Desktop\VB\Repetição\Repetição\obj\Debug\Repetição.pdb
